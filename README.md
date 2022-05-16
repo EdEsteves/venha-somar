@@ -47,7 +47,7 @@ Lembrando que mesmo parecendo um desafio "simples" tudo será avaliado, desde qu
 
 ## Bônus points
 * [React](https://pt-br.reactjs.org/) ou [Vue.js](https://vuejs.org/)
-* [Styled Component](http://getbem.com/introduction/)
+* [Styled Component](https://styled-components.com/)
 * [Storybook](https://storybook.js.org/)
 * [Atomic Design](https://tableless.com.br/o-que-e-design-atomic/)
 * Testes unitários
