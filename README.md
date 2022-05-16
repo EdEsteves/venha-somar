@@ -29,7 +29,7 @@ Quer saber mais? Vem acompanhar o maior grupo de moda do país!
 ## Proposta
 O seu desafio aqui é consumir essa [API](https://swapi.dev/) e mostrar de forma randômica uma resposta por vez referente a categoria em que estivermos ("films", "people", "planets", "species", "starships" ou "vehicles"), tudo de acordo com a URL em que o usuário estiver (Caso eu esteja na url "/peoples" o botão de mostrar informação randômica deve me mostrar um card de personagem randômico com os atributos a sua escolha ...e por ai vai ).
 
-Sobre a questão do layout, iremos deixar por sua conta! lembrando que css também é muito **!important**; e certamente será um diferencial.
+Sobre a questão do layout, iremos deixar por sua conta! lembrando que css também é muito `!important`; e certamente será um diferencial.
 
 O fluxo base desse desafio é que ele tenha uma HOME que forneça, de alguma forma, acesso a todas as categorias fornecidas pela API e uma página onde será exibido o card com as informações e o botão que trará o card randômico.
 
@@ -37,10 +37,13 @@ Para começar, você deve forkar esse repositório e fazer dele o seu *origin* p
 
 Lembrando que mesmo parecendo um desafio "simples" tudo será avaliado, desde que a forma como o consumo da API é feita até como o as pastas do projeto estão estruturadas.
 
+**O ideal é que o teste seja hospedado em algum lugar e também possua instruções de utilização local em seu readme.md**
+
 ## Obrigatório
 * HTML, CSS e JS
 * Git
 * Consumo de API REST
+* Rotas
 
 ## Bônus points
 * [React](https://pt-br.reactjs.org/) ou [Vue.js](https://vuejs.org/)
@@ -52,6 +55,6 @@ Lembrando que mesmo parecendo um desafio "simples" tudo será avaliado, desde qu
 
 
 
-Entre os critérios que pretendemos avaliar em seu código, é muito importante para nós a sua capacidade de [pensar modularmente](https://webstandardssherpa.com/reviews/think-modularly). Além disso, uma boa organização utilizando o Git e estruturando arquivos e pastas são reflexos da sua eficiência ao trabalhar em equipe, algo **essencial** por aqui.
+Entre os critérios que pretendemos avaliar em seu código, é muito importante para nós a sua capacidade de [pensar modularmente](https://webstandardssherpa.com/reviews/think-modularly). Além disso, uma boa organização utilizando o Git e estruturando arquivos e pastas são reflexos da sua eficiência ao trabalhar em equipe.
 
 **Grupo Soma**
