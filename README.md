@@ -31,7 +31,7 @@ O seu desafio aqui é consumir essa [API](https://swapi.dev/) e mostrar de forma
 
 Sobre a questão do layout, iremos deixar por sua conta! lembrando que css também é muito - ![#8B0000]`!important`; e certamente será um diferencial.
 
-O fluxo base desse desafio é que ele tenha uma home que de acesso de alguma forma a todas as categorias fornecidas pela API e uma página onde será exibido o card com as informações e o botão que trará o card randômico.
+O fluxo base desse desafio é que ele tenha uma HOME que forneça, de alguma forma, acesso a todas as categorias fornecidas pela API e uma página onde será exibido o card com as informações e o botão que trará o card randômico.
 
 Para começar, você deve forkar esse repositório e fazer dele o seu *origin* para esse projeto. Dessa forma, podemos acompanhar seus commits e avaliar melhor o seu desenvolvimento.
 
